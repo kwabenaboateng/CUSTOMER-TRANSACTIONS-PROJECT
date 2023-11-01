@@ -27,4 +27,4 @@ Before running the project, you need to have the following prerequisites install
 
 
 # Getting Started
-Clone this repository to your local machine:
+Clone this repository to your local machine: https://github.com/kwabenaboateng/CUSTOMER-TRANSACTIONS-PROJECT.git
