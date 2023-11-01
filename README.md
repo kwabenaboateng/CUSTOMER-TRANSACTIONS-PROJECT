@@ -60,3 +60,22 @@ The primary objective of this project is to analyze customer transactions data t
  - Customer Segmentation: Grouping customers based on their transaction behavior.
  - Product Analysis: Identifying the best-selling products and product categories.
  - Time-based Analysis: Analyzing transaction patterns over time.
+
+
+#Visualization
+
+
+
+# Conclusions
+
+
+# Contributing
+If you would like to contribute to this project, please follow these guidelines:
+
+ - Fork the repository.
+ - Create a new branch for your feature or bug fix.
+ - Make your changes and test them.
+ - Submit a pull request to the main branch of this repository.
+
+# Author
+FREDRICK KWABENA BOATENG
