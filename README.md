@@ -7,15 +7,15 @@ This repository contains a data analysis project focused on customer transaction
 
 
 # Table of Contents
-Prerequisites
-Getting Started
-Project Structure
-Data
-Analysis
-Visualization
-Conclusions
-Contributing
-License
+ - Prerequisites
+ - Getting Started
+ - Project Structure
+ - Data
+ - Analysis
+ - Visualization
+ - Conclusions
+ - Contributing
+ - License
 
 
 # Prerequisites
