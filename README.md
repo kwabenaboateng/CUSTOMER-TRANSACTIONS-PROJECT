@@ -24,3 +24,7 @@ Before running the project, you need to have the following prerequisites install
  - Python 3.x
  - Jupyter Notebook (optional but recommended for interactive analysis)
  - Required Python libraries (see requirements.txt)
+
+
+# Getting Started
+Clone this repository to your local machine:
