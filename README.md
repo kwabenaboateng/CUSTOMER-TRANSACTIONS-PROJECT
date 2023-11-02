@@ -50,7 +50,7 @@ The dataset used for this project is stored in the data/ directory. The data con
  - Transaction Amount: Amount of transaction made.
  - Date: Date of the transaction.
  - Merchant Name: the name of the merchant making the transactions.
- - category: Product category.
+ - Category: Product category.
 
 # Analysis
 The primary objective of this project is to analyze customer transactions data to answer important business questions. The analysis includes:
